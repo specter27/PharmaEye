@@ -17,7 +17,7 @@ This is a Pharmacy Task Mangement Application for Android Name: **PharmaEye - Mo
 
 ## Testing Environment Info
 
-> Tested on :iphone: Emulator Info :**Pixel 3a API 32**
+> Tested on :android-emulator: Emulator Info :**Pixel 3a API 32**
 
 
 ## Additional Info
